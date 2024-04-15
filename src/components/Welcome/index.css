@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #f0bb03;
+  font-family: Roboto;
+  font-size: 24px;
+}
+.description {
+  color: #ffffff;
+  font-family: Bree Serief;
+  font-size: 24px;
+}
+.button {
+  text-align: center;
+  background-color: #ffffff;
+  font-family: Bree Serief;
+  font-size: 16px;
+  border-radius: 12px;
+  border: none;
+  padding: 12px;
+}
